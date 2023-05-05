@@ -1,8 +1,8 @@
 {
     "riyawalecha211@gmail.com": {
-        "Last check": "2023-05-04",
-        "Today's points": 591,
-        "Points": 820
+        "Last check": "2023-05-05",
+        "Today's points": 430,
+        "Points": 1250
     },
-    "Elapsed time": "00:13:27"
+    "Elapsed time": "00:12:36"
 }
