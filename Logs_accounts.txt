@@ -1,8 +1,8 @@
 {
     "Groot.12370@gmail.com": {
-        "Last check": "2023-05-07",
-        "Today's points": 455,
-        "Points": 2810
+        "Last check": "2023-05-08",
+        "Today's points": 465,
+        "Points": 3275
     },
-    "Elapsed time": "00:14:05"
+    "Elapsed time": "00:14:16"
 }
